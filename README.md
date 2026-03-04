@@ -42,8 +42,6 @@ TensorFlow / Keras
 PyTorch  
 Ultralytics YOLO
 
-## Project Structure
-
 ## Author
 
 Nurul Najiha Norazmi
